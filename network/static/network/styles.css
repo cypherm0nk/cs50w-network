@@ -1,0 +1,12 @@
+.fa-heart{
+    color: red !important;
+    cursor: pointer;
+}
+.btn-primary:hover{
+    color: #fff;
+    background-color: #c82333;
+    border-color: #bd2130;
+}
+.hide{
+    display:none;
+}
